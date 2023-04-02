@@ -1,0 +1,9 @@
+There are two fundamentally different types of computers: analog and digital.
+
+The former type solver problems by using continuously changing data such as voltage.
+
+In current usage, the term "computer" usually refers to high-speed digital computers.
+
+These computers are playing an increasing role in all branches of the economy.
+
+Digital computers based on manipulating discrete binary digits (1s and 0s).
